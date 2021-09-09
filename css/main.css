@@ -18,7 +18,7 @@ li{
   padding-right: 10px;
 }
 .logoname{
-   font-size: 30px;
+   font-size: 50px;
    padding-bottom: inherit;
 }
 .navbar-div{
@@ -58,5 +58,5 @@ li{
   }
 }.navbar-brand{
   margin:0;
-  font-size:100px;
+  
 }
