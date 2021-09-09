@@ -10,15 +10,16 @@ margin-left: auto;
 padding-bottom:  0;
 
 }
-.nav-items{
+.nav-item{
   margin-right:  auto;
+  font-size:1.2rem;
 }
 li{
   padding-left: 10px;
   padding-right: 10px;
 }
 .logoname{
-   font-size: 50px;
+   font-size: 1.5rem;
    padding-bottom: inherit;
 }
 .navbar-div{
