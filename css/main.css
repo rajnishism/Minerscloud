@@ -3,6 +3,14 @@
   width: 60px;
   height: 60px;
 }
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  text-decoration: none;
+  color: white;
+}
 
 /* left align navlinks */
 
@@ -14,6 +22,9 @@ padding-bottom:  0;
 .nav-item{
   margin-right:  auto;
 }
+.main-line{
+  font-size: 3.5rem;
+}
 
 li{
   padding-left: 10px;
@@ -21,8 +32,6 @@ li{
 }
 
 .logoname{
-   
-   font-size:50px;
    margin: 0;
    vertical-align:middle;
 }
