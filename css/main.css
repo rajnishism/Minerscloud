@@ -75,6 +75,7 @@ li{
 
 .navbar-brand{
   margin:0;
+  font-size:3rem;
   
 }
 @media (max-width: 1000px) {
