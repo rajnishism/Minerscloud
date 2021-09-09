@@ -1,0 +1,58 @@
+
+.logo{
+  width: 60px;
+
+
+}
+/* left align navlinks */
+.navbar-nav{
+margin-left: auto;
+padding-bottom:  0;
+
+}
+.nav-items{
+  margin-right:  auto;
+}
+li{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.logoname{
+   font-size: 30px;
+   padding-bottom: inherit;
+}
+.navbar-div{
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  width: 100%;
+  display: block;
+  position: fixed;
+  top: 0;
+  background-color:#FCECDD;
+
+
+}
+.flex-container{
+  background-color: #FCECDD;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  width: 100%;
+
+}
+.main-img{
+  width: 800px;
+  display: flex;
+
+}
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}.navbar-brand{
+  margin:0;
+}
