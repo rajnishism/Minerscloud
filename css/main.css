@@ -1,28 +1,29 @@
 
 .logo{
   width: 90px;
-
-
 }
+
 /* left align navlinks */
+
 .navbar-nav{
 margin-left: auto;
 padding-bottom:  0;
-
 }
+
 .nav-item{
   margin-right:  auto;
-  font-size:1.2rem;
 }
+
 li{
   padding-left: 10px;
   padding-right: 10px;
 }
+
 .logoname{
-   
    padding-bottom: inherit;
-  font-size: 2.5rem;
+   font-size: 2.5rem;
 }
+
 .navbar-div{
   padding-left: 70px;
   padding-right: 70px;
@@ -35,8 +36,8 @@ li{
   background-color:#FCECDD;
   padding-bottom: 0;
 
-
 }
+
 .flex-container{
   background-color: #FCECDD;
 
@@ -45,21 +46,22 @@ li{
   align-items: center;
   margin-top: 100px;
   width: 100%;
-  
-
 }
+
 .main-img{
   width: 800px;
   display: flex;
  margin-top: 70px;
 
 }
+
 @media (max-width: 1000px) {
   .flex-container {
     flex-direction: column;
   }
-}.navbar-brand{
+}
+
+.navbar-brand{
   margin:0;
-  font-size: 2.5rem;
-  
+  font-size:60px;
 }
