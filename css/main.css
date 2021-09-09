@@ -1,6 +1,6 @@
 
 .logo{
-  width: 60px;
+  width: 90px;
 
 
 }
@@ -31,6 +31,7 @@ li{
   position: fixed;
   top: 0;
   background-color:#FCECDD;
+  padding-bottom: 0;
 
 
 }
@@ -42,6 +43,7 @@ li{
   align-items: center;
   margin-top: 100px;
   width: 100%;
+  
 
 }
 .main-img{
