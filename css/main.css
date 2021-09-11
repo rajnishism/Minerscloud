@@ -49,6 +49,12 @@ li{
   padding-bottom: 0;
 
 }
+.nav-toggler{
+  font-size:2rem;
+}
+
+
+
 
 .flex-container{
   background-color: #FCECDD;
@@ -61,15 +67,25 @@ li{
 }
 
 .main-img{
-  width: 800px;
+  width: 54vw;
   display: flex;
  margin-top: 70px;
+  
 
 }
 
 @media (max-width: 1000px) {
   .flex-container {
     flex-direction: column;
+  }
+  .navbar-brand{
+  font-size:4rem;
+  }
+  .logo{
+  width:70px;
+  }
+  main-img{
+    width:130vw:
   }
 }
 
