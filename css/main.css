@@ -87,6 +87,10 @@ li{
   main-img{
     width:130vw:
   }
+  .tagline-box{
+  margin-right: 70px;
+  padding-right: 16px;
+  }
 }
 
 .navbar-brand{
