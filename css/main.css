@@ -132,3 +132,9 @@ li{
   padding-left:86px;
   }
 }
+li.btn.btn-outline-warning{
+font-size:1.5rem;
+  border-radius:10px;
+  border : none;
+
+}
