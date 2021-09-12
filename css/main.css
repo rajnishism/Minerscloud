@@ -127,7 +127,7 @@ li{
   text-align:center;
   
 }
-@media(min-width:100px){
+@media(min-width:1000px){
   .tagline-box{
   padding-left:86px;
   }
