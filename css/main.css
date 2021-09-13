@@ -161,22 +161,21 @@ margin: 30px;
 .subject-img{
   width: 60px;
   margin-bottom: 30px;
-  position: fixed;
-  left: auto;
+  
 
 
 }
 .subject-code{
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 .subject-name{
-font-size: 1.5rem;
+font-size: 2.25rem;
 margin-bottom: 40px;
 }
 
 
 .sc{
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 .head1{
   padding-left: 86px;
@@ -184,4 +183,5 @@ margin-bottom: 40px;
 }
 .cover{
   padding-left: 86px;
+  padding-right: 86px;
 }
