@@ -303,12 +303,7 @@ align-self: center;
   font-size: 1.4rem;
 }
 
-@media (max-width:1000px) {
-  .container3{
-    flex-direction: column;
 
-  }
-}
 .footer{
   background-color:#FCECDD;
   padding-bottom: 30px;
