@@ -310,7 +310,7 @@ align-self: center;
 }
 .flexcontainer3{
   padding-left: 86px;
-  margin-right: 70px;
+  padding-right: 70px;
   display: flex;
 }
 .book-textbox{
@@ -331,7 +331,8 @@ align-self: center;
   .bookbox{
     width: 300px;
   }
-  .flexconatiner3{
+  .flexcontainer3{
+    display:flex;
    flex-direction:column;
   }
 }
