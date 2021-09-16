@@ -331,6 +331,9 @@ align-self: center;
   .bookbox{
     width: 300px;
   }
+  .flexconatiner3{
+   flex-direction:column;
+  }
 }
 .carousel-item{
 
