@@ -303,6 +303,63 @@ align-self: center;
   font-size: 1.4rem;
 }
 
+.book-img{
+  width: 900px;
+  margin-left: auto;
+ margin-right: auto;
+}
+.flexcontainer3{
+  padding-left: 86px;
+  margin-right: 70px;
+  display: flex;
+}
+.book-textbox{
+
+  display: flex;
+}
+.bookbox{
+  width:300px;
+  margin:80px;
+  border: 2px solid;
+  border-radius: 35px;
+  text-align: center;
+}
+
+
+@media (max-width:1000px) {
+  
+  .bookbox{
+    width: 300px;
+  }
+}
+.carousel-item{
+
+  height: 500px;
+  justify-content: center;
+
+}
+.carousel-img{
+  height: inherit;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.carouselcover{
+
+  background-color: #FCECDD;
+  padding-top:80px;
+  padding-bottom: 80px;
+}
+.carousel-control-next-icon{
+  height: 100px;
+  width: 100px;
+}
+.carousel-control-prev-icon{
+  height: 100px;
+  width: 100px;
+  color: #000;
+}
+
 
 .footer{
   background-color:#FCECDD;
