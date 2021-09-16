@@ -331,7 +331,7 @@ align-self: center;
   .bookbox{
     width: 300px;
   }
-  .flexconatiner3{
+  .conatiner3{
    flex-direction:column;
   }
 }
