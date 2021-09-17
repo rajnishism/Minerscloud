@@ -371,3 +371,7 @@ align-self: center;
   padding-top: 30px;
   line-height: 3;
 }
+
+.d-block{
+  height:inherit;
+}
