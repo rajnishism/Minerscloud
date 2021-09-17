@@ -373,5 +373,6 @@ align-self: center;
 }
 
 .d-block{
-  height:inherit;
+  height:500px;
+  width:auto;
 }
