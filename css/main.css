@@ -316,7 +316,7 @@ align-self: center;
 }
 @media(max-width:1000px){
   .book-img{
-  width:90vw
+  width:100%;
   }
 }
 
