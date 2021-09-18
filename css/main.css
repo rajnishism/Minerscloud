@@ -305,8 +305,12 @@ align-self: center;
   font-size: 1.4rem;
 }
 
+.book-cover{
+  margin:100px;
+}
+
 .book-img{
-  width: 800px;
+  width: 850px;
   margin-left: auto;
  margin-right: auto;
 }
