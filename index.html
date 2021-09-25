@@ -236,7 +236,10 @@
   </div>
 
 <script>
-  document.getElementById(preloader).css.display="none";
+  var preloader = document.getElementById(preloader);
+  function myfunction(){
+  preloader.css.display="none";
+  }
 </script>
   </body>
 </html>
