@@ -47,7 +47,7 @@ li{
   top: 0;
   background-color:#FCECDD;
   padding-bottom: 0;
-  z-index:100;
+  z-index:10;
 
 }
 .navbar-toggler-icon {
