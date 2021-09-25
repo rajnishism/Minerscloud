@@ -279,7 +279,7 @@ align-self: center;
   display: flex;
   align-items:stretch;
   align-content: center;
-
+  flex-wrap: wrap;
   justify-content: space-around;
   margin-bottom: 10px;
 
