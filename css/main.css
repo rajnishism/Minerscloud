@@ -401,5 +401,5 @@ align-self: center;
   width:100%;
 background: #fff url(https://cdn.hackernoon.com/images/0*4Gzjgh9Y7Gu8KEtZ.gif) no-repeat center;
 positon: fixed;
-z-index: 1000;
+z-index: 99999;
 }
