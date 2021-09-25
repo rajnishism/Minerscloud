@@ -280,9 +280,13 @@ align-self: center;
   align-items:stretch;
   align-content: center;
 
-  justify-content: center;
+  justify-content: space-around;
   margin-bottom: 10px;
 
+}
+
+@media(max-width:1000px){
+  flex-direction: column;
 }
 .cover3{
   padding-left: 86px;
