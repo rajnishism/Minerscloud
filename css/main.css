@@ -286,7 +286,7 @@ align-self: center;
 }
 
 @media(max-width:1000px){
-  display : flex;s
+  display : flex;
   flex-direction: column;
 }
 .cover3{
