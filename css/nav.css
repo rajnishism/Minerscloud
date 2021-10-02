@@ -26,9 +26,4 @@ iframe {
     transform-origin: 0 0;
 }
 
-@media (min-width:1000px) {
-  .footer{
-    display: fixed;
-    bottom: 0;
-  }
-}
+
