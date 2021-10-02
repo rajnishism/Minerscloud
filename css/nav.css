@@ -21,14 +21,14 @@ zoom:2;
 }
 iframe {
 
-    width: 55% !important;
+    width: 60% !important;
     height: 100vw !important;
-    -webkit-transform: scale(1.8);
-    transform: scale(1.8);
+    -webkit-transform: scale(1.6);
+    transform: scale(1.6);
 
 
     -webkit-transform-origin: 0 0;
     transform-origin: 0 0;
-    overflow-x: hidden;
-    overflow-y: visible;
+    overflow-x: auto;
+    overflow-y: auto;
 }
