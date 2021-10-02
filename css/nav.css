@@ -3,6 +3,7 @@ iframe{
   z-index: -9;
   padding:70px;
   height:100vw;
+  display:none;
 }
 .navbar-div{
   z-index: 10;
