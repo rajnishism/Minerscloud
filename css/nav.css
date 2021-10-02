@@ -20,17 +20,13 @@ crosspilot{
 zoom:2;
 }
 iframe {
-<<<<<<< HEAD
+
     width: 55% !important;
     height: 100vw !important;
     -webkit-transform: scale(1.8);
     transform: scale(1.8);
-=======
-    width: 76.92% !important;
-    height: 76.92% !important;
-    -webkit-transform: scale(4);
-    transform: scale(4);
->>>>>>> 154564158778c016676e47d06d7f53a666028194
+
+
     -webkit-transform-origin: 0 0;
     transform-origin: 0 0;
     overflow-y: visible;
