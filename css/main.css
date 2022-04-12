@@ -315,9 +315,11 @@ align-self: center;
 }
 
 .book-img{
-  width: 950px;
+  width: 700px;
   margin-left: auto;
- margin-right: auto;
+  margin-right: auto;
+  height: 500px;
+  
 }
 @media(max-width:1000px){
   .book-img{
@@ -338,10 +340,9 @@ align-self: center;
   width:100%;
 }
 .bookbox{
-  width:300px;
-
-  border: 2px solid;
-  border-radius: 35px;
+  width:200;
+  border: 1.5px solid;
+  border-radius: 10px;
   text-align: center;
 }
 
